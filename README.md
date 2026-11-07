@@ -2,7 +2,7 @@
 
 ## 📌 О проекте
 Данный проект представляет собой анализ результатов A/B-теста, проведенного для оценки влияния новой фичи (Treatment) на конверсию пользователей по сравнению с текущей версией (Control). 
-**Данные:** [Ссылка на датасет Kaggle](https://www.kaggle.com/datasets/ignaciospreafico/ab-testing-dataset-conversion-experiment?resource=download&select=data_dictionary.csv)
+**Данные:** Датасет находится в репозитории ('ab_test_dataset.csv'). Оригинал доступен на Kaggle [Ссылка на датасет Kaggle](https://www.kaggle.com/datasets/ignaciospreafico/ab-testing-dataset-conversion-experiment?resource=download&select=data_dictionary.csv)
 
 ## 🎯 Бизнес-задача
 Определить, увеличивает ли новая фича конверсию. Выявить сегменты пользователей, на которых фича работает лучше или хуже. Сформулировать рекомендации для продуктовой команды.
